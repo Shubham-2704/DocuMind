@@ -65,14 +65,9 @@ streamlit run app.py
 
 The application supports various Groq LLM models, including:
 
-- LLama 3 8B (8K context window)
-- LLama 3 70B (8K context window)
 - LLama 3.1 8B (128K context window)
 - LLama 3.3 70B (128K context window)
-- Google Gemma 2 9B (8K context window)
-- LLama 4 Maverick 17B (128K context window)
 - LLama 4 Scout 17B (128K context window)
-- Mistral Saba 24B (32K context window)
 - DeepSeek R1 Distill Llama 70B (128K context window)
 
 ## Limitations
